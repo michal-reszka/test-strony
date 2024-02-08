@@ -1,0 +1,26 @@
+.hello__details {
+    font-family: "Montserrat", sans-serif;
+}
+
+.hello__details-1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.info {
+    font-family: "Montserrat", sans-serif;
+    color: black;
+    font-size: 35px;
+    padding-top: 35px;
+    padding-left: 20px;
+}
+
+.info__details {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}

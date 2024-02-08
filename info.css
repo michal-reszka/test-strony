@@ -1,0 +1,107 @@
+
+.info__photo {
+    width: 160px;
+}
+
+.training {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.training__info {
+    font-size: 12px;
+}
+
+.info__photo--secondary {
+    height: 240px;
+}
+
+.training__info {
+    justify-content: space-between;   
+}
+
+.schooling {
+    padding-top: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.schooling__info {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.schooling__text {
+    font-family: "Montserrat", sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+}
+
+.schooling__info--secondary {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+
+.schooling__info--third {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+}
+
+.motto {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+    font-size: 28px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.motto__author {
+    font-family: "Montserrat", sans-serif;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-size: 12px;
+    color: gray;
+}
+
+.motto__me {
+    font-family: "Montserrat", sans-serif;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-right: 20px;
+}
+
+.info__photo--third {
+     /* width: 350px; */
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%; 
+}
+
+.instagram {
+    font-family: "Montserrat", sans-serif;
+    padding-top: 40px;
+    padding-left: 80px;
+    padding-right: 20px;
+}
+
+.instagram__link {
+    color: black;
+    font-weight: 500;
+}

@@ -1,0 +1,16 @@
+.menu {
+    background-color: blue;
+    padding: 25px 20px 20px;
+    position: absolute;
+    top: 0;
+    transform: translateX(-100%);
+}
+
+.navigation__close {
+    height: 50px;
+    width: 30px;
+}
+
+#menu:target {
+    transform: translateX(0);
+}
