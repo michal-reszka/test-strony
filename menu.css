@@ -1,5 +1,6 @@
+
 .menu {
-    background-color: blue;
+    background-color: grey;
     padding: 25px 20px 20px;
     position: absolute;
     top: 0;
@@ -13,4 +14,9 @@
 
 #menu:target {
     transform: translateX(0);
+}
+
+.page-navigation {
+    justify-content: space-between;
+    background: none;
 }
